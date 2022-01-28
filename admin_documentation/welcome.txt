@@ -1,0 +1,5 @@
+Welcome to the bug bounty package for colleges and universities. This package creates resources and tools to assist in easily launching a bug bounty program. If you are unsure on how to use this package please read all documentation that is included as part of this package. This package contains the following:
+-Training videos for participants
+-Documentation for Administrators
+-Documentation for Participants
+-Web Application to generate landing page

@@ -1,2 +1,2 @@
 # university-bug-bounty-package
-This git repo is to provide a package for universities to more easily launch a bug bounty program at their university.
+This git repo is to provide a package for universities to more easily launch a bug bounty program at their university. Please ensure to read the documentation to learn how to use this package.
