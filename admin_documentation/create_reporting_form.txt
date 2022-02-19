@@ -1,0 +1,12 @@
+This documentation will provide important information relating to the creation of the vulnerability reporting form. There is a template vulnerability form as a part of the package. This sample was also created with Google Forms to enable easy management of reports. Feel free to use which ever form creation tool you would like to use. It is recommended to collect the following information as a part of the vulnerability form:
+-Full Name
+-Email
+-Username (for point tracking)
+-Vulnerability type
+-Vulnerability severity
+-Reasoning for assigned severity
+-Suggested remediation
+-Whether data was accessed
+-If yes, what data was accessed
+-Was PII/PHI accessed
+-If yes, explain steps to take

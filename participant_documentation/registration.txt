@@ -1,0 +1,5 @@
+This documentation will explain the steps on how to register for the bug bounty program. Check with your university to see if registration is required to participate in the program. To register for the bug bounty, follow these steps:
+-Go to the main page for your university's bug bounty program
+-Scroll down to the bottom
+-Click the button that says "Register Now"
+-Complete and submit the form

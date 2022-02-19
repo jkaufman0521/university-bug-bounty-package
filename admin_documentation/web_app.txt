@@ -1,0 +1,21 @@
+Please ensure to read this documentation in its entirety as it outlines the process of using the web application to develop the landing page for your college/university's bug bounty program. This web application is to make it easy to develop a template for your bug bounty program's landing page. Follow the steps below to generate your landing page:
+-Make your way to the web application (link can be found in the package)
+-Input the college/university's name
+-Input the name and contact for the point of contact for the program
+-Select the options you would like for your program
+-At the bottom, input the link for the registration form and the vulnerability reporting form
+-Click "Generate
+
+Once the landing page is generated, follow the steps below to get the source code:
+
+On a Windows computer:
+-"Control" + "U"
+
+On Mac on Safari:
+-Click "Command" + "Option" + "U"
+-If that does not work, click on "Safari", then click "Preferences", the go to "Advanced", and the click the checkbox to show developer menu
+-Then try "Command" + "Option" + "U" and it should work now
+
+This will give you the source code for the html page. To use the same css formatting, please follow these steps:
+-Open the source code for the HTML page in the browser, towards the top of the page, there should be linked text to "landing.css"
+-Click the "landing.css" text and that should provide source code to the css

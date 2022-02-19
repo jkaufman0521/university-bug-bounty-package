@@ -1,0 +1,8 @@
+This documentation will discuss the creation of the registration for your bug bounty program. There is a sample registration form provided as a part of this package. The sample form provided is created with google forms. Feel free to use a form creator of your choice. Google forms was used for the sample as easy to use form creator tool and easy to manage system. As a part of this package, there will be a template terms and conditions document. THE TERMS AND CONDITIONS TEMPLATE WAS NOT REVIEWED BY AN ATTORNEY! Feel free to get legal assistance with the template. We recommend the following information be collected as a part of the registration process:
+-Full Name
+-Student/Staff IDF # (if program is restricted to students/staff)
+-Username (For leaderboard, to track points)
+-Phone #
+-Email
+-University Affiliation (if program is restricted to student/staff)
+-Agree to the Terms/Conditions

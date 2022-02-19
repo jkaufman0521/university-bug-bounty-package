@@ -1,0 +1,5 @@
+Please read this documentation for information about bounty eligibility and scoring. Below will outline the points awarded for each of the different severity levels for a reported vulnerability. Please ensure to read your college/university's policy on whether they offer bounty/reward for reported vulnerabilities as well as if so, what the eligibility requirements are. The points outline below are a guide and might differ from the points that your university uses, so double check with your university for the points awarded for a reported vulnerability.
+
+-Critical: 150 points
+-High: 100 points
+-Medium: 50 points

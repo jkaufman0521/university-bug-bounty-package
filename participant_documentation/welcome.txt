@@ -1,1 +1,7 @@
-Welcome to the bug bounty program. Please ensure to read all documentation provided to ensure you understand the terms and conditions of participating in your university's bug bounty program. Please watch all videos that are provided to learn more about participation in the program.
+Welcome to the bug bounty program. Please ensure to read all documentation provided to ensure you understand the terms and conditions of participating in your university's bug bounty program. Please watch all videos that are provided to learn more about participation in the program. The documentation/videos will provide a lot of useful information about how to participate, such as:
+-What a bug bounty program is
+-How to register
+-Scoring System
+-Defining safe harbor
+-Explaining different types of vulnerabilities
+-and much more
