@@ -1,5 +1,8 @@
-Welcome to the bug bounty package for colleges and universities. This package creates resources and tools to assist in easily launching a bug bounty program. If you are unsure on how to use this package please read all documentation that is included as part of this package. Feel free to edit any part of the documentation or anything in the package as it is open-source. The purpose of this bug bounty program package is that it is meant to provide resources to make it easier to develop a bug bounty program at your college/university. This package contains the following:
+Welcome to the bug bounty package for colleges and universities. This package creates resources and tools to assist in easily launching a bug bounty program. If you are unsure on how to use this package please read all documentation that is included as part of this package. Feel free to edit any part of the documentation or anything in the package as it is open-source. This package also contains a sample landing page with common requirements/features listed to provide a sample of what the page would look like and to show common requirements of other programs. 
+
+The purpose of this bug bounty program package is that it is meant to provide resources to make it easier to develop a bug bounty program at your college/university. This package contains the following:
 -Training videos for participants
 -Documentation for Administrators
 -Documentation for Participants
 -Web Application to generate landing page
+-Sample Bug Bounty Program Landing Page

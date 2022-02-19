@@ -1,0 +1,5 @@
+This documentation will explain what it means to be in scope vs out of scope within the context of a bug bounty program. 
+
+In-Scope means that these are vulnerabilities that your college or university allows you to test for. Make sure to refer to your program's landing page and any other policies listed to make sure you know which vulnerabilities are in-scope. Reach out to your program's point of contact prior to participation if you have any questions regarding what is in-scope.
+
+Out-of-Scope means that these are vulnerabilities that your college/university would not allow you to test for. Even though you cannot test for out-of-scope vulnerabilities, if you accidentally come across an out-of-scope vulnerability, your university still might want you to report it and provide you safe harbor even though it falls out-of-scope.

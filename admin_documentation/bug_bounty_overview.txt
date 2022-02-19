@@ -1,0 +1,8 @@
+This documentation will explain what a bug bounty program is as well as explain the purpose and why it is useful for colleges and universities to have one.
+
+A bug bounty program is a program that allows individuals such as the as students, faculty, staff, and the public to identify and report vulnerabilities that are found on an organization's systems. This helps strengthen the overall security posture of the organization. There are a few reasons why this type of program would be useful for a college or a university to have. These reasons are:
+-Identifies potential security risks in the systems
+-Allows for students and staff to build skills
+-Strengthens the overall security posture of the college or university
+
+With the increase in cyber-attacks in recent years, the importance of taking steps to protect the systems of organizations has become critical. Colleges and universities maintain a lot of personally identifiable information (PII) and potentially protected health information (PHI). Therefore, it is even more critical that colleges and universities take steps and implement measures to ensure the security of the systems and data are maintained.
