@@ -1,5 +1,7 @@
-This document will provide you with a option that could be implemented for the leaderboard for your college/university's bug bounty program. This leaderboard option was found using a google search and is not directly a part of this package. This is only a recommendation of an easy to use leaderboard. Feel free to choose a different one or develop one.
+This document will provide you with options that could be implemented for the leaderboard for your college/university's bug bounty program. These leaderboard options were found using a google search and are not directly a part of this package. These are only a recommendation of an easy to use leaderboard. Feel free to choose a different one or develop one.
 
-The leaderboard option presented here is https://keepthescore.co which provides an easy to use leaderboard. In order to have more than 6 players, it requires a one-time payment of $5.99 to use for up to 500 players.
+1.) The leaderboard option presented here is https://keepthescore.co which provides an easy to use leaderboard. In order to have more than 6 players, it requires a one-time payment of $5.99 to use for up to 500 players.
 
-Again, this is an option but is not directly a part of this package nor created by the creator of this package.
+2.) Another leaderboard option that is free to use is https://leaderboardhq.com which allows you to create a free leaderboard. Once you create the leaderboard, you can add the users and then it provides you with a public share link, admin link, and website embed code.
+
+Again, these are options but they are not directly a part of this package nor created by the creator of this package.
