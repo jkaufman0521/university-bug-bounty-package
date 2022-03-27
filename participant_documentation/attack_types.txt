@@ -1,0 +1,24 @@
+This documentation will provide information about different attack types that might be encountered with your participation in the bug bounty program. Below will give a brief description of different attack types.
+
+1.) Remote Code Execution
+- This type of attack occurs when an attacker is able to execute code remotely. This can lead to a full system takeover as well the attacker could be anywhere in the world.
+
+2.) SQL Injection Attack (SQLi)
+- This type of attack is where the attacker is able to inject SQL queries to the SQL database from the front-end of the website
+- This can lead to database modification, deletion, and/or read data from the database
+
+3.) DNS Poisoning/ARP Spoofing
+- DNS Poisoning is an attack where the attacker edits the DNS cache of the victim to have the victim sent to a different IP address for a domain instead of the IP address for the domain the victim typed in
+
+4.) Clickjacking
+- With this type of attack, the attacker puts transparent buttons over other buttons so when the user clicks the button they think they are clicking on for example "Play Video", when they are real clicking "Pay"
+- The attacker is "hijacking" the users click
+
+5.) Denial of Service
+- This attack is where the attacker sends packets to a system/website and brings the system down where it is no longer available to authorized users.
+- A Distributed Denial of Service is when multiple computers/bots are flooding the same target with packets
+
+6.) Authorization Bypass/Escalation
+- This type of attack is also known as Privilege Escalation. There are 2 types of privilege escalation:
+  i.) Vertical: going from a lower user to higher user such as "jdoe" to "root"
+  ii.) Horizontal: going from one account to another account with similar privileges such as "jdoe" to "bsmith"
