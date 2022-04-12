@@ -3,6 +3,7 @@ Please ensure to read this documentation in its entirety as it outlines the proc
 -Input the college/university's name
 -Input the name and contact for the point of contact for the program
 -Select the options you would like for your program
+-Any option selected will show a green check on landing page and all other options will show a red X
 -At the bottom, input the link for the registration form and the vulnerability reporting form
 -Click "Generate
 

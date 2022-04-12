@@ -6,3 +6,7 @@ The purpose of this bug bounty program package is that it is meant to provide re
 -Documentation for Participants
 -Web Application to generate landing page
 -Sample Bug Bounty Program Landing Page
+
+Bug bounty programs provide many benefits to colleges and universities. With the increase in cyber-attacks in the United States, it is critical to implement security measures to help ensure the security of the systems are maintained. Launching a bug bounty program is a simple measure that can be taken where students and faculty can look for vulnerabilities which helps the IT department locate vulnerabilities that need to be patched. It also allows for students to work on improving their skills in this field.
+
+The template terms and conditions document is only a template and has not been reviewed by an attorney. Therefore, feel free to have an attorney look over before implementing.
