@@ -1,0 +1,5 @@
+To access the web application to generate the landing page, go to:
+http://university-bug-bounty-package.herokuapp.com
+
+To access all admin and participant videos, go to:
+https://www.youtube.com/channel/UCleNeC3MLiE-8q_O0TCYZYQ/playlists
